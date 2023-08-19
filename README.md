@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#about-mario-clone">About Mario Clone</a>
+<a href="#about-application">About Application</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#technologies">Technologies</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -14,11 +14,17 @@
   <img src="https://github.com/shunny2/mario-game/assets/72872854/2442afc0-7703-4308-9f8a-434a2b659d33" alt="Mario Game" />
 </p>
 
-## About Mario Clone
+<p align="center">
+  <a href="https://img.shields.io/github/stars/shunny2/mario-game?style=social"><img src="https://img.shields.io/github/stars/shunny2/mario-game?style=social" alt="Repo Stars"/></a>
+  <a href="https://img.shields.io/github/forks/shunny2/mario-game?style=social"><img src="https://img.shields.io/github/forks/shunny2/mario-game?style=social" alt="Repo Forks"/></a>
+  <a href="https://img.shields.io/github/license/shunny2/mario-game?style=social"><img src="https://img.shields.io/github/license/shunny2/mario-game?style=social" alt="License"/></a>
+</p>
+
+## About Application
 
 Mario is an arcade-type game. This project is a prototype of this game to test some features of @keyframes.
 
-Game link available at: https://shunny2.github.io/mario-game/
+The link to access the game can be found at https://shunny2.github.io/mario-game/.
 
 ## Technologies
 
@@ -27,13 +33,13 @@ Game link available at: https://shunny2.github.io/mario-game/
   </thead>
   <tbody>
     <td>
-      <a href="https://pt.wikipedia.org/wiki/HTML5" title="HTML5"><img width="128" height="128" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012011/html5_logo-with-wordmark-01.png?itok=Fq8hmL4Z" alt="HTML5 logo image." /></a>
+      <a href="https://pt.wikipedia.org/wiki/HTML5" title="HTML5"><img width="128" height="128" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5 logo image." /></a>
     </td>
     <td>
-      <a href="https://pt.wikipedia.org/wiki/CSS3" title="CSS3"><img width="128" height="128" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042015/css3.png?itok=OlYIVwA0" alt="CSS3 logo image." /></a>
+      <a href="https://pt.wikipedia.org/wiki/CSS3" title="CSS3"><img width="128" height="128" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3 logo image." /></a>
     </td>
     <td>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img width="128" height="128" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082014/js1_0.png?itok=9fCD5b30" alt="JavaScript logo image." /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img width="128" height="128" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript logo image." /></a>
     </td>
   </tbody>
 </table>
